@@ -1,0 +1,6 @@
+print("Digite o primeiro valor: ")
+primeiro = input(" ")
+print("Digite o segundo valor: ")
+segundo = input(" ")
+terceiro = int(primeiro) * int(segundo)
+print("o valor da multiplicação é: ", terceiro)
