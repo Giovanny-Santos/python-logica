@@ -1,0 +1,8 @@
+print("G")
+print("i")
+print("o")
+print("v")
+print("a")
+print("n")
+print("n")
+print("y")
